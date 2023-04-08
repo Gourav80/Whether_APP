@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Common Classes */
+.btnCursorCustom{
+    cursor: pointer;
+}
